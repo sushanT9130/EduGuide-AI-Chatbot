@@ -62,7 +62,6 @@ EduGuide AI contributes to this goal by making educational resources and guidanc
 - **HTML, CSS, JavaScript**
 
 ---
-
 ## 🏗️ Project Architecture
 
 ```text
@@ -75,6 +74,7 @@ Botpress AI Engine
 Knowledge Base / AI Processing
   ↓
 Personalized Response
+```
 
 ## Live Demo
 
